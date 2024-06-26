@@ -1,2 +1,2 @@
-# GLM-Missing-Value
-R programming - using GLM to estimate missing values
+# GAM-Missing-Value
+R programming - using GAM to estimate missing values
